@@ -6,7 +6,7 @@ metadata:
 spec:
  generators:
    - git:
-       repoURL: https://github.com/prajendrrh/acm-gitops.git
+       repoURL: https://github.com/h8x0rd/acm-gitops.git
        revision: main
        files:
          - path: "clusters/**/values.yaml"
@@ -18,7 +18,7 @@ spec:
    spec:
      project: default
      source:
-       repoURL: https://github.com/prajendrrh/acm-gitops.git
+       repoURL: https://github.com/h8x0rd/acm-gitops.git
        targetRevision: main
        path: sno
        helm:

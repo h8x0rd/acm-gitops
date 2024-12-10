@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 
 cluster: 
-  baseDomain: sandbox317.opentlc.com
+  baseDomain: sandbox2742.opentlc.com
   name: blerg
   region: eu-west-2
   env: prod
@@ -12,7 +12,7 @@ clusterSet:
   enabled: true
   name: demo
 
-sshPubKey: 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAJRJuCD7XjKfVCpY3uLI/4uhgeRKpJvmKrgG/8lNZ+2 prajendr@prajendr-mac'
+sshPubKey: 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHjxvm+4vijcl5wKEFQxAp+JsG5uRJ+4VDP73bHv/8J1 h8x0rd@rhgmx2'
 
 sealedSecrets: true
 
