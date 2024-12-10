@@ -17,7 +17,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: https://github.com/rht-labs/todolist.git
+        repoURL: https://github.com/h8x0rd/todolist.git
         targetRevision: master
         path: chart
       destination:
