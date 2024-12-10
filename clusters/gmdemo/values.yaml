@@ -1,4 +1,4 @@
 cluster: 
   baseDomain: sandbox2742.opentlc.com
   name: gmdemo
-  env: dev
+  env: prod
