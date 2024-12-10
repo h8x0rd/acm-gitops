@@ -6,7 +6,7 @@ cluster:
   baseDomain: sandbox2742.opentlc.com
   name: gmdemo
   region: eu-west-2
-  # env: prod
+  env: prod
 
 clusterSet:
   enabled: true
