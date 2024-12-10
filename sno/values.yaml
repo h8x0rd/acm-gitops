@@ -4,9 +4,9 @@
 
 cluster: 
   baseDomain: sandbox2742.opentlc.com
-  name: blerg
+  name: {{ .Values.cluster.name }}
   region: eu-west-2
-  env: prod
+  # env: prod
 
 clusterSet:
   enabled: true
